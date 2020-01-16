@@ -11,6 +11,38 @@ links.txt
 manifest
   Manifest for resync application
 
+rockhounding.info.txt
+  rockhounding.info
+
+  $ whois rockhounding.info
+  Domain Name: ROCKHOUNDING.INFO
+  Registry Domain ID: D9351714-LRMS
+  Registrar WHOIS Server:
+  Registrar URL: www.melbourneit.com.au
+  Updated Date: 2020-01-01T03:20:12Z
+  Creation Date: 2004-12-31T19:48:11Z
+  Registry Expiry Date: 2020-12-31T19:48:11Z
+  Registrar Registration Expiration Date:
+  Registrar: Melbourne IT, Ltd
+  Registrar IANA ID: 13
+  Registrar Abuse Contact Email: abuse@melbourneit.com.au
+  Registrar Abuse Contact Phone: +61.386242300
+  Reseller:
+  Domain Status: clientHold https://icann.org/epp#clientHold
+  Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+  Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+  Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+  Registrant Organization: Private Registration AU
+  Registrant State/Province: VIC
+  Registrant Country: AU
+  Name Server: RNS1.MELBOURNEIT.COM.AU
+  Name Server: NS.ROCKHOUNDING.COM
+  DNSSEC: unsigned
+  URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
+  >>> Last update of WHOIS database: 2020-01-16T20:19:46Z <<<
+  ...
+  $
+
 rockhounding.org.txt
   rockhounding.org
 
