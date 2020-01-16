@@ -10,3 +10,56 @@ links.txt
 
 manifest
   Manifest for resync application
+
+rockhounding.org.txt
+  rockhounding.org
+
+  $ whois rockhounding.org
+  Domain Name: ROCKHOUNDING.ORG
+  Registry Domain ID: D11360567-LROR
+  Registrar WHOIS Server: whois.melbourneit.com
+  Registrar URL: http://www.melbourneit.com.au
+  Updated Date: 2015-10-04T19:24:34Z
+  Creation Date: 1999-10-15T19:29:03Z
+  Registry Expiry Date: 2020-10-15T19:29:03Z
+  Registrar Registration Expiration Date:
+  Registrar: ARQ Group Limited DBA Melbourne IT
+  Registrar IANA ID: 13
+  Registrar Abuse Contact Email: abuse@melbourneit.com.au
+  Registrar Abuse Contact Phone: +61.386242300
+  Reseller:
+  Domain Status: ok https://icann.org/epp#ok
+  Registrant Organization: Raymond Marcil
+  Registrant State/Province: AK
+  Registrant Country: US
+  Name Server: ENTERPRISE.MELBOURNEIT.COM.AU
+  Name Server: NS.ROCKHOUNDING.COM
+  DNSSEC: unsigned
+  URL of the ICANN Whois Inaccuracy Complaint Form https://www.icann.org/wicf/)
+  >>> Last update of WHOIS database: 2020-01-16T20:17:53Z <<<
+  ... 
+  $
+
+rockhounding.com.txt
+  rockhounding.com
+
+  $ whois rockhounding.com
+     Domain Name: ROCKHOUNDING.COM
+     Registry Domain ID: 21180270_DOMAIN_COM-VRSN
+     Registrar WHOIS Server: whois.arq.group
+     Registrar URL: http://www.melbourneit.com.au
+     Updated Date: 2015-02-03T17:22:13Z
+     Creation Date: 2000-03-02T20:56:08Z
+     Registry Expiry Date: 2020-03-02T20:56:08Z      <===
+     Registrar: Arq Group Limited DBA Melbourne IT
+     Registrar IANA ID: 13
+     Registrar Abuse Contact Email: abuse@melbourneit.com.au
+     Registrar Abuse Contact Phone: +61.386242300
+     Domain Status: ok https://icann.org/epp#ok
+     Name Server: NS.ROCKHOUNDING.COM
+     Name Server: RNS1.MELBOURNEIT.COM.AU
+     DNSSEC: unsigned
+     URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+  >>> Last update of whois database: 2020-01-16T20:14:02Z <<<
+  ... 
+  $
