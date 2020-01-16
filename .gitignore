@@ -1,0 +1,8 @@
+#.gitignore
+# Created Thu 16 Jan 2020 11:36:57 AM AKST
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+registrar/
