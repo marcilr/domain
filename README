@@ -5,6 +5,26 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+expirations.txt
+  Expirations
+
+  From whois (Jan 16, 2020):
+
+  rockhounding.biz
+    Registry Expiry Date: 2027-08-16T23:59:59Z   <=== Aug 16, 2027
+
+  rockhounding.com
+    Registry Expiry Date: 2020-03-02T20:56:08Z   <=== Mar  2, 2020
+
+  rockhounding.info
+    Registry Expiry Date: 2020-12-31T19:48:11Z   <=== Dec 31, 2020
+
+  rockhounding.net
+    Registry Expiry Date: 2020-10-11T18:33:03Z   <=== Oct 11, 2020
+
+  rockhounding.org
+    Registry Expiry Date: 2020-10-15T19:29:03Z   <=== Oct 15, 2020
+
 links.txt
   Domain related links
 
@@ -40,6 +60,30 @@ rockhounding.info.txt
   DNSSEC: unsigned
   URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
   >>> Last update of WHOIS database: 2020-01-16T20:19:46Z <<<
+  ...
+  $
+
+rockhounding.net.txt
+  rockhounding.net
+
+  $ whois rockhounding.net
+     Domain Name: ROCKHOUNDING.NET
+     Registry Domain ID: 11191590_DOMAIN_NET-VRSN
+     Registrar WHOIS Server: whois.arq.group
+     Registrar URL: http://www.melbourneit.com.au
+     Updated Date: 2015-10-04T19:24:35Z
+     Creation Date: 1999-10-11T18:33:03Z
+     Registry Expiry Date: 2020-10-11T18:33:03Z
+     Registrar: Arq Group Limited DBA Melbourne IT
+     Registrar IANA ID: 13
+     Registrar Abuse Contact Email: abuse@melbourneit.com.au
+     Registrar Abuse Contact Phone: +61.386242300
+     Domain Status: ok https://icann.org/epp#ok
+     Name Server: ENTERPRISE.MELBOURNEIT.COM.AU
+     Name Server: NS.ROCKHOUNDING.COM
+     DNSSEC: unsigned
+     URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+  >>> Last update of whois database: 2020-01-16T20:24:50Z <<<
   ...
   $
 
