@@ -2,7 +2,9 @@ rockhounding.info.txt
 Created Thu 16 Jan 2020 11:08:27 AM AKST
 Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
+
 rockhounding.info
+
 
 $ whois rockhounding.info
 Domain Name: ROCKHOUNDING.INFO
@@ -33,3 +35,57 @@ URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
 ...
 $
 
+
+
+
+Thu 16 Jan 2020 11:08:27 AM AKST
+================================
+o Logged into Melbourne IT.  Updated for another year at $18.
+Domain rockhounding.info renewal request received. Order # 15199408
+
+Looks good.
+
+1) Log into your account
+https://theconsole.melbourneit.com.au/execute2/account/workflow/product-renewal-workflow
+
+2) Under Account Alerts, click on Services due for renewal
+
+3) Renew, cancel or upgrade your service
+Was set for old amex card.  Updated.
+
+
+o Got gmail that rockhounding.info auto-account renewal had failed.
+
+
+Account: MI365771   <=== This is account reference
+
+Hi Raymond,
+
+We recently tried to renew your Private Registration service for
+rockhounding.info but the payment request was declined.
+
+To prevent your account from being suspended, please follow the steps below:
+
+1) Log into your account
+Log into The Console
+Please note, both account reference and password are case sensitive.
+
+ACCOUNT REFERENCE: MI365771
+PASSWORD:          ***
+
+https://theconsole.melbourneit.com.au/
+
+2) Under Account Alerts, click on Services due for renewal
+https://theconsole.melbourneit.com.au/execute2/account/workflow/product-renewal-workflow
+
+3) Renew, cancel or upgrade your service
+
+To avoid disruptions to your service moving forward, you can keep your default
+billing details up to date.
+
+If you need help renewing your service or updating your billing details,
+we're here to help. Contact our team at 1300 654 677 (+61 3 8624 2300).
+
+Thanks,
+
+The Melbourne IT team
