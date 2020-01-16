@@ -1,0 +1,28 @@
+rockhounding.net.txt
+Created Thu 16 Jan 2020 11:08:19 AM AKST
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+rockhounding.net
+
+
+$ whois rockhounding.net
+   Domain Name: ROCKHOUNDING.NET
+   Registry Domain ID: 11191590_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.arq.group
+   Registrar URL: http://www.melbourneit.com.au
+   Updated Date: 2015-10-04T19:24:35Z
+   Creation Date: 1999-10-11T18:33:03Z
+   Registry Expiry Date: 2020-10-11T18:33:03Z
+   Registrar: Arq Group Limited DBA Melbourne IT
+   Registrar IANA ID: 13
+   Registrar Abuse Contact Email: abuse@melbourneit.com.au
+   Registrar Abuse Contact Phone: +61.386242300
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: ENTERPRISE.MELBOURNEIT.COM.AU
+   Name Server: NS.ROCKHOUNDING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-01-16T20:24:50Z <<<
+...
+$
