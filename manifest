@@ -21,6 +21,7 @@
 #
 # =====================================================================
 # =====================================================================
+ssh://git@github.com/marcilr/registrar            registrar
 #ssh://git@github.com/marcilr/rockhounding.net    rockhounding.net
 #ssh://git@github.com/marcilr/rockhounding.org    rockhounding.org
 #ssh://git@github.com/marcilr/rockhounding.com    rockhounding.com
