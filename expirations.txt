@@ -1,0 +1,26 @@
+expirations.txt
+Created Thu 16 Jan 2020 11:17:55 AM AKST
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Expirations
+
+
+From whois (Jan 16, 2020):
+
+rockhounding.biz
+  Registry Expiry Date: 2027-08-16T23:59:59Z   <=== Aug 16, 2027
+
+rockhounding.com
+  Registry Expiry Date: 2020-03-02T20:56:08Z   <=== Mar  2, 2020
+
+rockhounding.info
+  Registry Expiry Date: 2020-12-31T19:48:11Z   <=== Dec 31, 2020
+
+rockhounding.net
+  Registry Expiry Date: 2020-10-11T18:33:03Z   <=== Oct 11, 2020
+
+rockhounding.org
+  Registry Expiry Date: 2020-10-15T19:29:03Z   <=== Oct 15, 2020
+
+
