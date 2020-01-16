@@ -8,6 +8,12 @@ Expirations
 
 From whois (Jan 16, 2020):
 
+31/12/19   [ Renew ]	rockhounding.info
+03/03/20   [ Renew ]	rockhounding.com
+12/10/20   [ Renew ]	rockhounding.net
+16/10/20   [ Renew ]	rockhounding.org
+16/08/27   [ Renew ]	rockhounding.biz
+
 rockhounding.biz
   Registry Expiry Date: 2027-08-16T23:59:59Z   <=== Aug 16, 2027
 
@@ -16,6 +22,9 @@ rockhounding.com
 
 rockhounding.info
   Registry Expiry Date: 2020-12-31T19:48:11Z   <=== Dec 31, 2020
+
+  Was set to old amex updated.
+  Paid $18 for another year (Thu 16 Jan 2020)
 
 rockhounding.net
   Registry Expiry Date: 2020-10-11T18:33:03Z   <=== Oct 11, 2020
