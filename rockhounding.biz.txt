@@ -1,0 +1,36 @@
+rockhounding.biz.txt
+Created Thu 16 Jan 2020 11:29:55 AM AKST
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+rockhounding.biz
+
+
+$ whois rockhounding.biz
+Domain Name: rockhounding.biz
+Registry Domain ID: D19625651-BIZ
+Registrar WHOIS Server:
+Registrar URL: www.melbourneit.com.au
+Updated Date: 2017-08-25T00:16:04Z
+Creation Date: 2007-08-17T17:02:17Z
+Registry Expiry Date: 2027-08-16T23:59:59Z
+Registrar: Arq Group Limited DBA Melbourne IT
+Registrar IANA ID: 13
+Registrar Abuse Contact Email: abuse@melbourneit.com.au
+Registrar Abuse Contact Phone: +61.386242300
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: Raymond Marcil
+...
+Registrant State/Province: AK
+...
+Registrant Country: US
+...
+Name Server: rns1.melbourneit.com.au
+Name Server: ns.rockhounding.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-01-16T20:28:47Z <<<
+...
+$
