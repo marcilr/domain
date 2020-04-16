@@ -1,0 +1,114 @@
+inspection-20200415.txt
+Created Wed 15 Apr 2020 08:15:20 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Domain inspection
+
+
+Domain               Created         Last Updated    Expires
+-----------------------------------------------------------------
+rockhounding.com     Mar  2, 2020    Feb 28, 2020    Mar  2, 2021
+rockhounding.net     Oct 11, 1999    Oct  4, 2015    Oct 11, 2020   <===
+rockhounding.org     Oct 15, 1999    Oct  4, 2015    Oct 15, 2020   <===
+rockhounding.biz     Aug 17, 2007    Aug 25, 2017    Aug 08, 2027
+rockhounding.info    Aug 17, 2007    Aug 25, 2017    Aug 16, 2027
+
+
+rockhounding.com
+   http://www.melbourneit.com.au
+   Updated Date: 2020-02-28T16:42:35Z
+   Creation Date: 2000-03-02T20:56:08Z
+   Registry Expiry Date: 2021-03-02T20:56:08Z      <=== Mar 2, 2021
+
+rockhounding.net
+   Registrar URL: http://www.melbourneit.com.au
+   Updated Date: 2015-10-04T19:24:35Z
+   Creation Date: 1999-10-11T18:33:03Z
+   Registry Expiry Date: 2020-10-11T18:33:03Z      <=== *** Oct 11, 2020  ***
+   Registrar: Arq Group Limited DBA Melbourne IT
+
+rockhounding.org
+  Registrar WHOIS Server: whois.melbourneit.com
+  Registrar URL: http://www.melbourneit.com.au
+  Updated Date: 2015-10-04T19:24:34Z
+  Creation Date: 1999-10-15T19:29:03Z
+  Registry Expiry Date: 2020-10-15T19:29:03Z       <=== *** Oct 15, 2020 ***
+  Registrar Registration Expiration Date:
+  Registrar: ARQ Group Limited DBA Melbourne IT
+
+rockhounding.biz
+  Registrar URL: www.melbourneit.com.au
+  Updated Date: 2017-08-25T00:16:04Z
+  Creation Date: 2007-08-17T17:02:17Z
+  Registry Expiry Date: 2027-08-16T23:59:59Z      <=== Aug 08, 2027
+  Registrar: Arq Group Limited DBA Melbourne IT
+
+rockhounding.info
+  Registrar URL: www.melbourneit.com.au
+  Updated Date: 2017-08-25T00:16:04Z
+  Creation Date: 2007-08-17T17:02:17Z
+  Registry Expiry Date: 2027-08-16T23:59:59Z      <=== Aug 08, 2027
+  Registrar: Arq Group Limited DBA Melbourne IT
+
+
+
+$ whois rockhounding.com
+   Domain Name: ROCKHOUNDING.COM
+   Registry Domain ID: 21180270_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.arq.group
+   Registrar URL: http://www.melbourneit.com.au
+   Updated Date: 2020-02-28T16:42:35Z
+   Creation Date: 2000-03-02T20:56:08Z
+   Registry Expiry Date: 2021-03-02T20:56:08Z
+   Registrar: Arq Group Limited DBA Melbourne IT
+   Registrar IANA ID: 13
+   Registrar Abuse Contact Email: abuse@melbourneit.com.au
+   Registrar Abuse Contact Phone: +61.386242300
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: NS.ROCKHOUNDING.COM
+   Name Server: RNS1.MELBOURNEIT.COM.AU
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-04-16T04:15:26Z <<<
+...
+$
+
+$ whois rockhounding.net
+   Domain Name: ROCKHOUNDING.NET
+   Registry Domain ID: 11191590_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.arq.group
+   Registrar URL: http://www.melbourneit.com.au
+   Updated Date: 2015-10-04T19:24:35Z
+   Creation Date: 1999-10-11T18:33:03Z
+   Registry Expiry Date: 2020-10-11T18:33:03Z       <=== *** Oct 11, 2020 ***
+   Registrar: Arq Group Limited DBA Melbourne IT
+   Registrar IANA ID: 13
+   Registrar Abuse Contact Email: abuse@melbourneit.com.au
+   Registrar Abuse Contact Phone: +61.386242300
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: ENTERPRISE.MELBOURNEIT.COM.AU
+   Name Server: NS.ROCKHOUNDING.COM
+   DNSSEC: unsigned
+...
+$
+
+
+$ whois rockhounding.org
+  Registrar URL: http://www.melbourneit.com.au
+  Updated Date: 2015-10-04T19:24:34Z
+  Creation Date: 1999-10-15T19:29:03Z
+  Registry Expiry Date: 2020-10-15T19:29:03Z     <=== *** Oct 15, 2020 ***
+...
+$
+
+
+$ whois rockhounding.biz
+  Registrar URL: www.melbourneit.com.au
+  Updated Date: 2017-08-25T00:16:04Z
+  Creation Date: 2007-08-17T17:02:17Z
+  Registry Expiry Date: 2027-08-16T23:59:59Z      <=== Aug 08, 2027
+  Registrar: Arq Group Limited DBA Melbourne IT
+...
+$
