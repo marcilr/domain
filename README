@@ -11,6 +11,17 @@ Filelist
 expirations.txt
   Expirations
 
+  From whois (Apr 15, 2020):
+    Domain inspection
+
+    Domain               Created         Last Updated    Expires
+    -----------------------------------------------------------------
+    rockhounding.com     Mar  2, 2020    Feb 28, 2020    Mar  2, 2021
+    rockhounding.net     Oct 11, 1999    Oct  4, 2015    Oct 11, 2020   <===
+    rockhounding.org     Oct 15, 1999    Oct  4, 2015    Oct 15, 2020   <===
+    rockhounding.biz     Aug 17, 2007    Aug 25, 2017    Aug 08, 2027
+    rockhounding.info    Aug 17, 2007    Aug 25, 2017    Aug 16, 2027
+
   From whois (Jan 16, 2020):
 
   rockhounding.biz
@@ -27,6 +38,17 @@ expirations.txt
 
   rockhounding.org
     Registry Expiry Date: 2020-10-15T19:29:03Z   <=== Oct 15, 2020
+
+inspection-20200415.txt
+  Domain inspection
+
+  Domain               Created         Last Updated    Expires
+  -----------------------------------------------------------------
+  rockhounding.com     Mar  2, 2020    Feb 28, 2020    Mar  2, 2021
+  rockhounding.net     Oct 11, 1999    Oct  4, 2015    Oct 11, 2020   <===
+  rockhounding.org     Oct 15, 1999    Oct  4, 2015    Oct 15, 2020   <===
+  rockhounding.biz     Aug 17, 2007    Aug 25, 2017    Aug 08, 2027
+  rockhounding.info    Aug 17, 2007    Aug 25, 2017    Aug 16, 2027
 
 links.txt
   Domain related links
