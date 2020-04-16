@@ -6,13 +6,26 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 Expirations
 
 
-From whois (Jan 16, 2020):
+Wed 15 Apr 2020 08:38:10 PM AKDT
+================================
 
-31/12/19   [ Renew ]	rockhounding.info
-03/03/20   [ Renew ]	rockhounding.com
-12/10/20   [ Renew ]	rockhounding.net
-16/10/20   [ Renew ]	rockhounding.org
-16/08/27   [ Renew ]	rockhounding.biz
+Domain               Created         Last Updated    Expires
+-----------------------------------------------------------------
+rockhounding.com     Mar  2, 2020    Feb 28, 2020    Mar  2, 2021
+rockhounding.net     Oct 11, 1999    Oct  4, 2015    Oct 11, 2020   <===
+rockhounding.org     Oct 15, 1999    Oct  4, 2015    Oct 15, 2020   <===
+rockhounding.biz     Aug 17, 2007    Aug 25, 2017    Aug 08, 2027
+rockhounding.info    Aug 17, 2007    Aug 25, 2017    Aug 16, 2027
+
+
+Thu 16 Jan 2020 11:17:55 AM AKST
+================================
+From whois (Jan 16, 2020):
+  31/12/19   [ Renew ]	rockhounding.info
+  03/03/20   [ Renew ]	rockhounding.com
+  12/10/20   [ Renew ]	rockhounding.net
+  16/10/20   [ Renew ]	rockhounding.org
+  16/08/27   [ Renew ]	rockhounding.biz
 
 rockhounding.biz
   Registry Expiry Date: 2027-08-16T23:59:59Z   <=== Aug 16, 2027
