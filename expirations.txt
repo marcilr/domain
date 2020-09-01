@@ -6,14 +6,31 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 Expirations
 
 
+Tue 01 Sep 2020 09:05:26 AM AKDT
+================================
+Routine inspection of domain details at MelbourneIT.
+
+MelbourneIT flags rockhounding.net and rockhounding.org
+up for renewal as they both expire mid-October.
+
+
+Domain               Created         Last Updated    Expires
+-----------------------------------------------------------------
+rockhounding.net     Oct 11, 1999    Oct  4, 2015    Oct 11, 2020   <===
+rockhounding.org     Oct 15, 1999    Oct  4, 2015    Oct 15, 2020   <===
+rockhounding.com     Mar  2, 2020    Feb 28, 2020    Mar  2, 2021
+rockhounding.biz     Aug 17, 2007    Aug 25, 2017    Aug 08, 2027
+rockhounding.info    Aug 17, 2007    Aug 25, 2017    Aug 16, 2027
+
+
 Wed 15 Apr 2020 08:38:10 PM AKDT
 ================================
 
 Domain               Created         Last Updated    Expires
 -----------------------------------------------------------------
-rockhounding.com     Mar  2, 2020    Feb 28, 2020    Mar  2, 2021
 rockhounding.net     Oct 11, 1999    Oct  4, 2015    Oct 11, 2020   <===
 rockhounding.org     Oct 15, 1999    Oct  4, 2015    Oct 15, 2020   <===
+rockhounding.com     Mar  2, 2020    Feb 28, 2020    Mar  2, 2021
 rockhounding.biz     Aug 17, 2007    Aug 25, 2017    Aug 08, 2027
 rockhounding.info    Aug 17, 2007    Aug 25, 2017    Aug 16, 2027
 
