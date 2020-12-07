@@ -5,6 +5,82 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 Expirations
 
+Melbourne IT
+Phone: 1300 654 677
+Account reference: MI365771
+the usual + A@3%     <=== New credential
+                          Set Thu 26 Nov 2020 10:35:02 AM
+
+https://theconsole.melbourneit.com.au/
+
+
+
+Mon 07 Dec 2020 06:49:04 AM AKST
+================================
+Need to to renew rockhounding.net and rockhounding.org
+
+Support enquiry:
+
+Hi, I need to pay another year on 2 domain names.
+The domains are rockhounding.net and rockhounding.org 
+Thanks!
+
+NOTE: Get Agent offline.  Time difference to Australia.
+Ned to enquiry in the afternon our time.
+
+rockhounding.net
+  Registry Expiry Date: 2020-10-11T18:33:03Z   <=== Oct 11, 2020
+
+Domain expires 12/10/2020
+
+rockhounding.org
+  Registry Expiry Date: 2020-10-15T19:29:03Z   <=== Oct 15, 2020
+
+
+Advised rockhounding.com expiration of 02-Mar-2021) 
+
+Thank you for your renewal
+Your renewal request for the domains:
+
+Domain Name        DomainID	Status
+rockhounding.com   4886005	Order ID:17334407 Renewal job has successsfully been lodged
+
+
+Thu 26 Nov 2020 10:22:28 AM AKST
+================================
+Logging in to Melbourne IT and Managing
+rockhounding.net and rockhounding.org
+
+For renewal of 2x $267 = $534
+
+Missed expirations for rockhounding.net and rockhounding.org
+arg...
+
+rockhounding.org - Expired 10/16/20
+rockhounding.net - Expired 10/12/20
+
+Need to investigate if still extendable via Melbourne IT.
+
+Melbourne IT
+Phone: 1300 654 677
+Account reference: MI365771
+https://theconsole.melbourneit.com.au/
+
+Reset password for via rockhounding.info
+
+Reset your account password by providing your account reference:
+  First Name: Raymond
+  Last Name:  Marcil
+  Account:    MI365771
+
+click Submit
+
+Access to gmail works for access to MelbourneIT credential reset.
+Reset credential to:
+  the usual + A@3%     <=== New credential
+
+
+
 
 Tue 01 Sep 2020 09:05:26 AM AKDT
 ================================
@@ -62,4 +138,12 @@ rockhounding.net
 rockhounding.org
   Registry Expiry Date: 2020-10-15T19:29:03Z   <=== Oct 15, 2020
 
+
+Links
+=====
+Melbourne IT: #1 Domain Registration & Digital Agency
+https://www.melbourneit.com.au/
+
+Domain names
+https://www.melbourneit.com.au/domain-names/
 
